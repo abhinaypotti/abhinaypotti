@@ -15,4 +15,3 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaypotti&layout=compact&theme=radical" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abhinaypotti&repo=abhinaypotti.github.io&theme=radical" />
