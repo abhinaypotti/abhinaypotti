@@ -10,7 +10,7 @@
 - 📫 How to reach me: [Linkedin:Potti Shanmuka Abhinay](https://www.linkedin.com/in/potti-shanmuka-abhinay/)
 - 😄 Pronouns: He
 - ⚡ Fun fact: Love to laugh!
-
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=abhinaypotti&show_icons=true" alt="abhinaypotti" /></p>
 <img src="https://github-readme-stats.vercel.app/api?username=abhinaypotti&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaypotti&layout=compact&theme=radical" />
