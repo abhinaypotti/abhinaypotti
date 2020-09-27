@@ -1,4 +1,4 @@
-### Hola I am Ganapathi Subramanyam! 👋
+### Hola I am Shanmuka Abhinay! 👋
 [![Gmail Badge](https://img.shields.io/badge/-pottiabhinay2001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pottiabhinay2001@gmail.com)](mailto:pottiabhinay2001@gmail.com)
 
 
