@@ -11,7 +11,5 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: Love to laugh!
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=abhinaypotti" alt="abhinaypotti" /></p>
-![Shanmuka Abhinay's github stats](https://github-readme-stats.vercel.app/api?username=abhinaypotti)
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaypotti" />
 
